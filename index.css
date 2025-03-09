@@ -31,7 +31,7 @@
 
 9.  -----------> w-blue-light
 
-10. -----------> w-blue-light
+10. -----------> w-pink-light
 
 
 
@@ -712,21 +712,21 @@ div, p, ul, li, h1, h2, h3 {
 
 /* Pink light */
 
-.w-blue-light .w-modal__subtitle,
-.w-blue-light .w-modal__main-title,
-.w-blue-light .w-modal__main-text,
-.w-blue-light .w-modal__desc-text strong,
-.w-blue-light .w-modal__info .w-row p strong {
+.w-pink-light .w-modal__subtitle,
+.w-pink-light .w-modal__main-title,
+.w-pink-light .w-modal__main-text,
+.w-pink-light .w-modal__desc-text strong,
+.w-pink-light .w-modal__info .w-row p strong {
   color: #C50070;
 }
 
-.w-blue-light .w-modal__desc-img {
+.w-pink-light .w-modal__desc-img {
   background: -webkit-gradient(linear, left top, right top, from(rgba(235, 251, 254, 1)), to(rgba(217, 254, 243, 1)));
   background: -o-linear-gradient(left, rgba(235, 251, 254, 1) 0%, rgba(217, 254, 243, 1) 100%);
   background: linear-gradient(90deg, rgba(235, 251, 254, 1) 0%, rgba(217, 254, 243, 1) 100%);
 }
 
-.w-blue-light .w-modal__info--bg {
+.w-pink-light .w-modal__info--bg {
   background: #FFE7FD;
 }
 
